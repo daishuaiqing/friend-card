@@ -10,25 +10,28 @@
     "navigationBarBackgroundColor": "#FFFFFF"
   },
   "tabBar": {
+    "selectedColor": "#d81e06",
+    "color": "#8a8a8a",
     "list": [
       {
         "pagePath": "pages/user/user",
         "text": "我的",
-        "iconPath": "images/tabbar/about.png",
-        "selectedIconPath": "images/tabbar/about_cur.png"
+        "iconPath": "images/yonghu.png",
+        "selectedIconPath": "images/yonghu_r.png"
       },
       {
         "pagePath": "pages/cardPackage/cardPackage",
         "text": "名片夹",
-        "iconPath": "images/tabbar/component.png",
-        "selectedIconPath": "images/tabbar/component_cur.png"
+        "iconPath": "images/biaoqian.png",
+        "selectedIconPath": "images/biaoqian_r.png"
       },
       {
         "pagePath": "pages/friendGroup/friendGroup",
         "text": "交友群",
-        "iconPath": "images/tabbar/basics.png",
-        "selectedIconPath": "images/tabbar/basics_cur.png"
+        "iconPath": "images/duihua.png",
+        "selectedIconPath": "images/duihua_r.png"
       }
     ]
-  }
+  },
+  "sitemapLocation": "sitemap33.json"
 }

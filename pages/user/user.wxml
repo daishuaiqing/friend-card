@@ -1,2 +1,62 @@
-<!--pages/user/user.wxml-->
-<text>pages/user/user.wxml</text>
+<!-- pages/user/user.wxml -->
+<view class="back-img"></view>
+<view class="user-card">
+    <view class="user-icon"></view>
+    <view class="birth">
+        <text class="info-value">男 1994年1月</text>
+    </view>
+    <view class="info-grid">
+        <view class="base-info">
+            <view class="info-item">
+                <text class="info-key">身高</text>
+                <text class="info-value">183cm</text>
+            </view>
+            <view class="info-item">
+                <text class="info-key">户籍</text>
+                <text class="info-value">上海市浦东新区</text>
+            </view>
+            <view class="info-item">
+                <text class="info-key">学历</text>
+                <text class="info-value">本科</text>
+            </view>
+        </view>
+        <view class="base-info">
+            <view class="info-item">
+                <text class="info-key">婚姻状况</text>
+                <text class="info-value">未婚</text>
+            </view>
+            <view class="info-item">
+                <text class="info-key">职业</text>
+                <text class="info-value">研发工程师</text>
+            </view>
+            <view class="info-item">
+                <text class="info-key">住房情况</text>
+                <text class="info-value">未购房</text>
+            </view>
+        </view>
+        <view class="base-info">
+            <view class="info-item">
+                <text class="info-key">车辆情况</text>
+                <text class="info-value">无车</text>
+            </view>
+            <view class="info-item">
+                <text class="info-key">月收入</text>
+                <text class="info-value">1万到2万</text>
+            </view>
+            <view class="info-item">
+                <text class="info-key">居住地</text>
+                <text class="info-value">上海浦东新区</text>
+            </view>
+        </view>
+    </view>
+    <view class="desc-bd">
+        <view class="title">详细描述</view>
+        <view class="info-value desc">年少帅气又多金</view>
+    </view>
+    <view  class="desc-bd">
+        <view class="title">择偶条件</view>
+        <view class="info-value desc">年青又漂亮的</view>
+    </view>
+</view>
+<view class="user-info"></view>
+<view class="user-desc"></view>
