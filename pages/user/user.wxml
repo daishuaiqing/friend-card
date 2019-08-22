@@ -53,10 +53,12 @@
         <view class="title">详细描述</view>
         <view class="info-value desc">年少帅气又多金</view>
     </view>
-    <view  class="desc-bd">
+    <view class="desc-bd">
         <view class="title">择偶条件</view>
-        <view class="info-value desc">年青又漂亮的</view>
+        <view class="info-value desc">喜欢年青又漂亮的小姐姐，脾气好，温柔，体贴</view>
     </view>
 </view>
-<view class="user-info"></view>
-<view class="user-desc"></view>
+<view class="operation">
+    <view class="modify">修改</view>
+    <view class="send-to-group">发送名片至相亲群</view>
+</view>
