@@ -1,7 +1,9 @@
 <!-- pages/user/user.wxml -->
 <view class="back-img"></view>
 <view class="user-card">
-    <view class="user-icon"></view>
+    <view class="user-icon">
+        <image class="av-img" src="../../images/av.jpg" mode="aspectFill" />
+    </view>
     <view class="birth">
         <text class="info-value">男 1994年1月</text>
     </view>

@@ -2,7 +2,9 @@
   "pages": [
     "pages/user/user",
     "pages/cardPackage/cardPackage",
-    "pages/friendGroup/friendGroup"
+    "pages/friendGroup/friendGroup",
+    "pages/init/init",
+    "pages/userinfo/userinfo"
   ],
   "window": {
     "navigationBarTitleText": "我的名片",

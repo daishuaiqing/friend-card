@@ -1,0 +1,8 @@
+<view class="show-pic">
+
+</view>
+<view class="title">
+    <text>80%创建相亲名片的人</text>
+    <text>在三个月内找到了对象</text>
+</view>
+<view class="create-bt">创建名片</view>

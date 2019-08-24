@@ -1,0 +1,31 @@
+page{
+    background: #ffffff;
+}
+.show-pic{
+    background: blueviolet;
+    height: 550rpx;
+    width: 100%;
+}
+.title{
+    margin: 90rpx 0;
+}
+.title text{
+    color: red;
+    font-size: 42rpx;
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 5rpx 0;
+    font-weight: bold;
+}
+.create-bt{
+    height: 85rpx;
+    width: 700rpx;
+    line-height: 85rpx;
+    background: red;
+    font-size: 40rpx;
+    color: #ffffff;
+    text-align: center;
+    margin: auto;
+    border-radius: 10rpx;
+}

@@ -1,0 +1,11 @@
+<view class="header">
+    <image class="av-img" src="../../images/av.jpg" mode="aspectFill" />
+    <text class="editicon">点击编辑头像</text>
+    <view class="process">完整度95%</view>
+    <text class="header-desc">信息越详细，找对象越容易</text>
+</view>
+<view class="baseinfo"></view>
+<view class="addtinfo"></view>
+<view class="detail"></view>
+<view class="detail"></view>
+<view class="lifephoto"></view>
