@@ -1,1 +1,13 @@
-/* pages/friendGroup/friendGroup.wxss */
+page{
+    background: #ffffff;
+}
+.group{
+    background: #f0f0f0;
+    height: 805rpx;
+    width: 100%;
+}
+.ad{
+    background: #eeb9b9;
+    height: 55rpx;
+    width: 100%;
+}

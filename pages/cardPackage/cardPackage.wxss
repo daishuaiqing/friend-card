@@ -1,1 +1,9 @@
-/* pages/cardPackage/cardPackage.wxss */
+page{
+    background: #ffffff;
+}
+.bottom-text{
+    text-align: center;
+    color: #7e7e7e;
+    font-size: 32rpx;
+    margin-top: 20rpx;
+}

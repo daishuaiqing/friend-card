@@ -39,7 +39,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 1,
+			"current": 3,
 			"list": [
 				{
 					"id": -1,
@@ -52,6 +52,20 @@
 					"id": -1,
 					"name": "userinfo",
 					"pathName": "pages/userinfo/userinfo",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "cardpackage",
+					"pathName": "pages/cardPackage/cardPackage",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "group",
+					"pathName": "pages/friendGroup/friendGroup",
 					"scene": null
 				}
 			]
